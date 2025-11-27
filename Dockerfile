@@ -26,3 +26,5 @@ EXPOSE 8080
 # Command to run the Spring Boot application
 # The jar file name will be sample-app-0.0.1-SNAPSHOT.jar based on your pom.xml
 CMD ["java", "-jar", "target/sample-app-0.0.1-SNAPSHOT.jar"]
+
+# TEST TRIGGER
